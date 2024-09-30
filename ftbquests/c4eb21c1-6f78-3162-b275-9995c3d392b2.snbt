@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c4eb21c16f783162b2759995c3d392b2"
+	name: "KIDSAMORT#c4eb21c1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

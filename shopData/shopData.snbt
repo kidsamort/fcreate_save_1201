@@ -1,0 +1,36 @@
+{
+	limiterData: {
+		entry_list: [
+			{
+				isGlobal: 0b
+				users: [{
+					userID: "c4eb21c1-6f78-3162-b275-9995c3d392b2"
+					userBuys: 10
+				}]
+				entryID: "d85c3385-682b-450a-acc0-5013e9147ca8"
+			}
+			{
+				isGlobal: 0b
+				users: [{
+					userID: "c4eb21c1-6f78-3162-b275-9995c3d392b2"
+					userBuys: 1
+				}]
+				entryID: "5286811e-fea0-43fe-9d14-48963132994d"
+			}
+			{
+				isGlobal: 0b
+				users: [
+					{
+						userID: "c4eb21c1-6f78-3162-b275-9995c3d392b2"
+						userBuys: 9
+					}
+					{
+						userID: "27780c3c-02e4-3ab7-8d25-f47df7d0d997"
+						userBuys: 1
+					}
+				]
+				entryID: "b90e635c-8f27-4db7-afa7-65050ad9e6f5"
+			}
+		]
+	}
+}

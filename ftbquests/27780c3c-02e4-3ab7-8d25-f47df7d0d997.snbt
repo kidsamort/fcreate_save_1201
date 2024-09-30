@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "27780c3c02e43ab78d25f47df7d0d997"
+	name: "alonsa#27780c3c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

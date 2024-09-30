@@ -1,0 +1,36 @@
+{
+	categories: [{
+		entries: [{
+			dateWhenAutoClose: 1727994725846L
+			ownerPlayer: {
+				playerUUID: [I;
+					-991223359
+					1870147938
+					-1300915819
+					-1009544526
+				]
+				nickName: "KIDSAMORT"
+				countOffers: 0
+			}
+			dateWhenClose: -1L
+			isSell: 0b
+			searchEntryData: {
+				tags: [ ]
+			}
+			price: 1
+			count: 1
+			type: {
+				item: "minecraft:iron_ingot"
+				typeID: "itemType"
+			}
+			uuid: [I;
+				-1422761489
+				873283945
+				-1502221812
+				-2138599131
+			]
+			createDate: 1727562725845L
+		}]
+		id: "test"
+	}]
+}
